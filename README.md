@@ -11,5 +11,6 @@
 - [**18. Google AI Agents 白皮书解读-③：上下文工程精讲**](18.%20Google%20AI%20Agents白皮书解读-③：上下文工程精讲.pdf)
 - [**19. Google AI Agents 白皮书解读-④：质量评估框架**](19.%20Google%20AI%20Agents白皮书解读-④：质量评估框架.pdf)
 - [**20. Google AI Agents 白皮书解读-⑤：AgentOps 实战心法**](20.%20Google%20AI%20Agents白皮书解读-⑤：AgentOps实战心法.pdf)
+- [**24. Agent 开发深水区！揭秘 Cursor-Google-Anthropic 的上下文工程黑科技**](24.%20Agent开发深水区！揭秘%20Cursor-Google-Anthropic%20的上下文工程黑科技.pdf)
 
 欢迎关注我的哔哩哔哩账号 [**碳硅同传**](https://space.bilibili.com/85645193)，小红书同号，获取更多 AI Agent 相关的深度解读和实战分享！
