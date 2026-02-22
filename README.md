@@ -12,5 +12,12 @@
 - [**19. Google AI Agents 白皮书解读-④：质量评估框架**](19.%20Google%20AI%20Agents白皮书解读-④：质量评估框架.pdf)
 - [**20. Google AI Agents 白皮书解读-⑤：AgentOps 实战心法**](20.%20Google%20AI%20Agents白皮书解读-⑤：AgentOps实战心法.pdf)
 - [**24. Agent 开发深水区！揭秘 Cursor-Google-Anthropic 的上下文工程黑科技**](24.%20Agent开发深水区！揭秘%20Cursor-Google-Anthropic%20的上下文工程黑科技.pdf)
+- [**25. 深度复盘 Lovart 逆袭之路：从 4000 块现金到 AI 独角兽的生存心法**](25.%20深度复盘%20Lovart%20逆袭之路：从%204000%20块现金到%20AI%20独角兽的生存心法.pdf)
+
+- [**26. a16z 合伙人深度拆解：AI 创业如何从“玩具”变成“生意”？**](26.%20a16z合伙人深度拆解：AI创业如何从“玩具”变成“生意”？.pdf)
+
+- [**27. 扒完三场访谈，我看清了 OpenClaw 爆火的底层逻辑**](27.%20扒完三场访谈，我看清了%20OpenClaw%20爆火的底层逻辑.pdf)
+
+- [**28. OpenAI 内部实战：一人十亿公司来了？**](28.%20OpenAI内部实战：一人十亿公司来了？.pdf)
 
 欢迎关注我的哔哩哔哩账号 [**碳硅同传**](https://space.bilibili.com/85645193)，小红书同号，获取更多 AI Agent 相关的深度解读和实战分享！
